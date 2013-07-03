@@ -16,8 +16,10 @@
     "docco-husky"
   ],
   "dependencies": {
-    "grunt": "~0.3.9",
+    "grunt": "~0.4",
     "underscore": "1.4.2",
+    "grunt-jslint": "~0.2.6",
+    "grunt-contrib-clean": "~0.4.1",
     "docco-husky": "https://github.com/vytch/docco-husky/tarball/33a09515cd88b83224934781c9e4152edee089c5"
   },
   "author": "Vy Hoang",
